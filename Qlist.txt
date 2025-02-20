@@ -1,0 +1,29 @@
+Basic questions:-
+
+1. sum of n natural numbers O(1)
+2. reverse a numbers
+3. palindrome of a number
+4. Armstrong of a number
+5. factorial using recusive approach
+6. Binary to decimal 
+7. decimal to binary using array approach(try again)*
+8. largest number in an array
+9. Smallest number in an array
+10. Check whether number is prime or not*(2 to n-1 || 2 to root(n))
+11. Multiplication Table
+12. Patterns questions must
+    1. star Pattern
+    2. HollowRectangle
+    3. Inverted and rotated half pyramid
+    4. Inverted half pyramid with numbers
+    5. floyd's triangle
+    6. 0-1 triangle
+    7. Butterfly pattern
+    8. Solid Rhombus
+    9. HollowRhombus
+    10. Diamond (try again)*
+    11. palindromic array(try it)*
+    12. number pattern
+13. Primes in ranges (divide and conquer approach -> problems ko chhote tukroo mai break krunga fir solve krdunga)
+eg: isPrime() ko use krunga 
+14. Count number of digits in a given number
